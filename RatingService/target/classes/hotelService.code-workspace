@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../hotelService/hotelService"
+		},
+		{
+			"path": "../../../../../UserService/UserService"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}

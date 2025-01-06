@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../.."
+		},
+		{
+			"path": "../../../../../../../../UserService/UserService"
+		},
+		{
+			"path": "../../../../../../../../RatingService/RatingService"
+		},
+		{
+			"path": "../../../../../../../../ServiceRegistry/ServiceRegistry"
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic",
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
